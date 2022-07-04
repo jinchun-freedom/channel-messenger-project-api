@@ -1,0 +1,14 @@
+all: true
+include:
+  - 'src/'
+exclude: []
+clean: true
+temp-directory: 'coverage'
+report-dir: 'coverage'
+skip-full: true
+reporter: [json, html, text]
+check-coverage: true
+branches: 80
+lines: 80
+functions: 80
+statements: 80
