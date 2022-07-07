@@ -1,10 +1,11 @@
-# channelmessengerprojectapi
+# graphql_api
+graphql作为api的新增，查询及订阅的示例
 
 #### `installation`
 npm install or yarn install
 
 #### `dependencies`
-nodejs,koa,graphql,ws...
+nodejs,koa,graphql,ws,minimongo...
 
 #### `npm run start`
 
